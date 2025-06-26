@@ -39,8 +39,5 @@
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadityapranihith&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadityapranihith&layout=compact&theme=dark)
 
-## ✨ Quote I Like
 
-> “Artificial Intelligence is the new electricity.”  
-> — **Andrew Ng**
 

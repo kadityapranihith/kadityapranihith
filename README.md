@@ -6,7 +6,7 @@
 - 🤖 Passionate about machine learning, LLMs, and backend development  
 - 🧠 Exploring applied NLP and generative AI  
 - 🛠️ Building projects with Python, FastAPI, LangChain, and TensorFlow  
-- 📫 Reach me at: adityapranihith@gmail.com
+- 📫 Reach me at: adityapranihith123@gmail.com
 
 ---
 

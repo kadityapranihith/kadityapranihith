@@ -101,7 +101,10 @@ An end-to-end web application for real-time potato disease detection.
 - Analytics dashboard
 - Backend deployed on Render
 
-🔗 Live Demo: https://potatohealth-ai.onrender.com
+🔗 Live Demo: https://potatohealth-ai.vercel.app/
+
+🔗 Repository: https://github.com/kadityapranihith/PotatoHealth-AI
+
 
 ---
 

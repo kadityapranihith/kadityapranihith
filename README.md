@@ -1,43 +1,121 @@
-## 👋 About Me:
+<h1 align="center">Hi 👋, I'm Keerthy Aditya Pranihith</h1>
 
-### Hi, I'm Aditya Pranihith
+<h3 align="center">
+Computer Science Undergraduate specializing in AI/ML
+</h3>
 
-- 🎓 CSE undergraduate at VIT-AP, specializing in AI/ML  
-- 🤖 Passionate about machine learning, LLMs, and backend development  
-- 🧠 Exploring applied NLP and generative AI  
-- 🛠️ Building projects with Python, FastAPI, LangChain, and TensorFlow  
-- 📫 Reach me at: adityapranihith123@gmail.com
-
----
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-pranihith-keerthy/)
+<p align="center">
+Building backend systems and AI-powered applications.
+</p>
 
 ---
 
-## 💻 Tech Stack:
+## 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=flat&logo=python&logoColor=FFD43B)
-![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-blueviolet?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230076A8.svg?style=flat&logo=matplotlib&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=flat&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
+- 🎓 B.Tech in Computer Science and Engineering (AI/ML), VIT-AP University
+- 📈 CGPA: **9.01 / 10**
+- 💻 Solved **350+ Data Structures and Algorithms** problems
+- 🤖 Interested in Backend Development, Machine Learning, and Generative AI
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Technical Skills
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadityapranihith&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadityapranihith&layout=compact&theme=dark)
+### Languages
+- Python
+- Java
+- SQL
 
+### Frameworks & Libraries
+- FastAPI
+- TensorFlow
+- LangChain
+- scikit-learn
 
+### Backend
+- REST APIs
+- Authentication
+- Databases
+- Deployment
 
+### Databases
+- SQLite
+- Firestore
+- Qdrant
+
+### AI / ML
+- Machine Learning
+- Deep Learning
+- NLP
+- Retrieval-Augmented Generation (RAG)
+- Generative AI
+
+### Cloud & Tools
+- Firebase
+- Render
+- Git
+- GitHub
+- Postman
+
+---
+
+# 🚀 Projects
+
+## URL Answers – AI-Powered Research Assistant
+
+A full-stack Retrieval-Augmented Generation (RAG) application that enables users to create chat sessions from web URLs and interact with extracted content through natural language conversations.
+
+### Highlights
+
+- FastAPI backend
+- Firebase Authentication
+- Firestore for persistent multi-session chat history
+- Web scraping and document chunking
+- Semantic embeddings
+- Vector-based semantic search
+- Qdrant Vector Database
+- Jina Embeddings
+- Llama 3.1 hosted on Groq
+- 8 REST API endpoints
+- Backend deployed on Render
+
+🔗 Live Demo: https://url-answers.vercel.app/
+
+🔗 Repository: https://github.com/kadityapranihith/url-answers-fullstack-ai-app-
+
+---
+
+## PotatoHealth AI – Disease Detection & Analytics
+
+An end-to-end web application for real-time potato disease detection.
+
+### Highlights
+
+- Built using TensorFlow, FastAPI, and SQLite
+- Trained on 2,100+ potato leaf images
+- Achieved **98.33% test accuracy**
+- Detects Healthy, Early Blight, and Late Blight
+- Treatment recommendations
+- 4 REST API endpoints
+- Prediction history management
+- Analytics dashboard
+- Backend deployed on Render
+
+🔗 Live Demo: https://potatohealth-ai.onrender.com
+
+---
+
+# 🏆 Achievements
+
+- Top 20% globally on LeetCode with a contest rating of **1600+**
+- Solved **350+** Data Structures and Algorithms problems across LeetCode and GeeksforGeeks
+- IBM – Advanced Generative AI – IBM Career Education Program (July 2026)
+
+---
+
+# 📫 Connect
+
+- **Email:** adityapranihith123@gmail.com
+- **LinkedIn:** https://linkedin.com/in/aditya-pranihith-keerthy
+- **GitHub:** https://github.com/kadityapranihith
+- **LeetCode:** https://leetcode.com/u/kap7/

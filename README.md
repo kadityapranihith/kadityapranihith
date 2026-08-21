@@ -13,7 +13,7 @@ Building backend systems and AI-powered applications.
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering (AI/ML), VIT-AP University
-- 📈 CGPA: **9.01 / 10**
+- 📈 CGPA: **9.07 / 10**
 - 💻 Solved **350+ Data Structures and Algorithms** problems
 - 🤖 Interested in Backend Development, Machine Learning, and Generative AI
 
